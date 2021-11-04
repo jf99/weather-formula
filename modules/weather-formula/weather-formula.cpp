@@ -2,5 +2,5 @@
 
 float magicValue()
 {
-  return 3.f;
+  return 3.1415f;
 }
